@@ -1,0 +1,42 @@
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.deps.json
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.runtimeconfig.json
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.pdb
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfo.cs
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\refint\invoice_system.utilities.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.pdb
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.genruntimeconfig.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.utilities\obj\Debug\net8.0\ref\invoice_system.utilities.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.deps.json
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.runtimeconfig.json
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.pdb
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.AssemblyReference.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfoInputs.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfo.cs
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.CoreCompileInputs.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\refint\invoice_system.utilities.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.pdb
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.genruntimeconfig.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\ref\invoice_system.utilities.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.deps.json
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.runtimeconfig.json
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\bin\Debug\net8.0\invoice_system.utilities.pdb
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.AssemblyReference.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfoInputs.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.AssemblyInfo.cs
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.csproj.CoreCompileInputs.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\refint\invoice_system.utilities.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.pdb
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\invoice_system.utilities.genruntimeconfig.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.utilities\obj\Debug\net8.0\ref\invoice_system.utilities.dll

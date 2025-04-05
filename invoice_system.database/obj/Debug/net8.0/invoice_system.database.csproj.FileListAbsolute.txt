@@ -1,0 +1,36 @@
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.deps.json
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.pdb
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfo.cs
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\refint\invoice_system.database.dll
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.pdb
+C:\Users\Dell\source\repos\invoice_system\invoice_system.database\obj\Debug\net8.0\ref\invoice_system.database.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.deps.json
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.pdb
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.AssemblyReference.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.GeneratedMSBuildEditorConfig.editorconfig
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfoInputs.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfo.cs
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.CoreCompileInputs.cache
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\refint\invoice_system.database.dll
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.pdb
+E:\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\ref\invoice_system.database.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.deps.json
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\bin\Debug\net8.0\invoice_system.database.pdb
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.AssemblyReference.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfoInputs.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.AssemblyInfo.cs
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.csproj.CoreCompileInputs.cache
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\refint\invoice_system.database.dll
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\invoice_system.database.pdb
+\\192.168.1.113\SmartWare\invoice_system\19-03-25\shruti taniksha\invoice_system\invoice_system\invoice_system.database\obj\Debug\net8.0\ref\invoice_system.database.dll
