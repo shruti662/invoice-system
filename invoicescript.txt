@@ -1,0 +1,124 @@
+USE [invoice_system]
+GO
+/****** Object:  Table [dbo].[city]    Script Date: 23-01-2025 11:01:55 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[city](
+	[city_ID] [int] NOT NULL,
+	[city_name] [varchar](50) NOT NULL,
+	[state_ID] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[city_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[company_address]    Script Date: 23-01-2025 11:01:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[company_address](
+	[address_ID] [int] IDENTITY(1,1) NOT NULL,
+	[company_ID] [int] NULL,
+	[street_address] [nvarchar](100) NOT NULL,
+	[country] [nvarchar](50) NOT NULL,
+	[state] [nvarchar](50) NOT NULL,
+	[city] [nvarchar](50) NOT NULL,
+	[pin_code] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[address_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[company_details]    Script Date: 23-01-2025 11:01:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[company_details](
+	[company_ID] [int] IDENTITY(1,1) NOT NULL,
+	[company_name] [varchar](50) NOT NULL,
+	[company_email] [varchar](100) NULL,
+	[contact_no] [bigint] NULL,
+	[landline_no] [bigint] NULL,
+	[PAN_no] [varchar](10) NOT NULL,
+	[GSTIN_no] [varchar](15) NOT NULL,
+	[created_date] [datetime] NULL,
+	[created_by] [int] NULL,
+	[modified_date] [datetime] NULL,
+	[modified_by] [int] NULL,
+	[IsDeleted] [bit] NULL,
+ CONSTRAINT [PK__company___3E27767D2CDB98B4] PRIMARY KEY CLUSTERED 
+(
+	[company_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[concern_person_details]    Script Date: 23-01-2025 11:01:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[concern_person_details](
+	[person_ID] [int] IDENTITY(1,1) NOT NULL,
+	[company_ID] [int] NULL,
+	[first_name] [varchar](20) NOT NULL,
+	[middle_name] [varchar](20) NULL,
+	[last_name] [varchar](20) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[person_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[country]    Script Date: 23-01-2025 11:01:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[country](
+	[country_ID] [int] NOT NULL,
+	[country_name] [varchar](50) NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[country_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[state]    Script Date: 23-01-2025 11:01:56 AM ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[state](
+	[state_ID] [int] NOT NULL,
+	[state_name] [varchar](50) NOT NULL,
+	[country_ID] [int] NOT NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[state_ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[company_details] ADD  CONSTRAINT [DF__company_d__creat__74AE54BC]  DEFAULT (getdate()) FOR [created_date]
+GO
+ALTER TABLE [dbo].[city]  WITH CHECK ADD FOREIGN KEY([state_ID])
+REFERENCES [dbo].[state] ([state_ID])
+GO
+ALTER TABLE [dbo].[company_address]  WITH CHECK ADD  CONSTRAINT [FK__company_a__compa__73BA3083] FOREIGN KEY([company_ID])
+REFERENCES [dbo].[company_details] ([company_ID])
+GO
+ALTER TABLE [dbo].[company_address] CHECK CONSTRAINT [FK__company_a__compa__73BA3083]
+GO
+ALTER TABLE [dbo].[concern_person_details]  WITH CHECK ADD  CONSTRAINT [FK__concern_p__compa__6FE99F9F] FOREIGN KEY([company_ID])
+REFERENCES [dbo].[company_details] ([company_ID])
+GO
+ALTER TABLE [dbo].[concern_person_details] CHECK CONSTRAINT [FK__concern_p__compa__6FE99F9F]
+GO
+ALTER TABLE [dbo].[state]  WITH CHECK ADD FOREIGN KEY([country_ID])
+REFERENCES [dbo].[country] ([country_ID])
+GO
